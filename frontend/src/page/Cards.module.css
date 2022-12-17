@@ -1,0 +1,10 @@
+.btn {
+	padding: 1rem;
+	margin: 3rem;
+	border-radius: 1rem;
+}
+.commentArea {
+	margin: 1rem;
+	background-color: wheat;
+	border-radius: 1rem;
+}

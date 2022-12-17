@@ -1,0 +1,11 @@
+.container {
+	margin: 1rem;
+	padding: 0.5rem;
+
+	background-color: beige;
+	border-radius: 1.5rem;
+}
+
+.title {
+	font-weight: 700;
+}

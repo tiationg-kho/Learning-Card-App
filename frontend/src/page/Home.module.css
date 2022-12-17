@@ -1,0 +1,13 @@
+.board {
+	height: 30vh;
+	margin: 3rem;
+
+	border-radius: 3rem;
+
+	cursor: pointer;
+	font-size: larger;
+	font-weight: 700;
+	line-height: 30vh;
+	text-align: center;
+	background-color: bisque;
+}

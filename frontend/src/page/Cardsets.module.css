@@ -1,0 +1,15 @@
+.inputContainer {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+
+	margin: 1rem;
+}
+
+.searchInput {
+	width: 50%;
+}
+
+.addInput {
+	width: 50%;
+}
